@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Gang Yang! 👋
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yggame)](https://github.com/yggame/github-readme-stats)
